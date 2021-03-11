@@ -12,10 +12,14 @@
 
    Palavras-Chave:
 
-   Como fazer Estrogonofe, como fazer Estrogonofe de frango, Estrogonofe de frango, Estrogonofe simples, Frango, receita com frango, receita fácil de estrogonofe.
+   Como fazer Estrogonofe, como fazer Estrogonofe de frango, Estrogonofe de frango, Estrogonofe simples, Frango, receita com frango, receita fácil de estrogonofe...
 
+   
+
+   Testes
+   
    ### Ingredientes:
-
+   
    - 600 g de filé de peito
    - 1 cebola grande picada
    - 2 dentes de alho picados
@@ -25,13 +29,13 @@
    - 3 colheres (sopa) de passata de tomate
    - 1 caixa de creme de leite (200g)
    - 200g de cogumelos paris
-   - 1 colher (sopa) de manteiga
+- 1 colher (sopa) de manteiga
    - Azeite de oliva
-   - Pimenta preta
+- Pimenta preta
    - Sal
-
+   
    ### Modo de fazer:
-
+   
    1. Corte a carne em cubos pequenos.
    2. Aqueça uma panela, regue com um fio de azeite e comece a dourar os pedaços de frango, faça em duas ou três vezes para que eles não soltem água. A cada leva coloque um pouco de azeite.
    3. Reserve o frango dourado.
