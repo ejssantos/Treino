@@ -1,4 +1,4 @@
-# Strogonoff de Frango :chicken: Testando
+# Strogonoff de Frango :chicken: ( Testando... )
 Estrogonofe de frango é um prato simples, mas clássico e delicioso.
 
 Autor: Eline Prando
